@@ -2,7 +2,7 @@
 ----
 # URL
 
-* 切换到：[中文](https://github.com/DFRobot/MindPlus-User_Extension_Tutorial)
+* 切换到：[中文](https://gitee.com/dfrobot/MindPlus-User_Extension_Tutorial)
 * More MindPlus tutorials : [http://mindplus.cc/](http://mindplus.cc/)
 
 ----
